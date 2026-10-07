@@ -1,0 +1,6 @@
+.venv/
+.idea/
+__pycache__/
+*.db
+certificates_output/
+.pytest_cache/
